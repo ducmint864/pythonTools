@@ -27,5 +27,6 @@ else:
 		pyautogui.click()
 		counter+=1
 		print("Clicks remaining : {0}".format(int(amount) - counter))
+	print("Click session finished, terminating program.")
 
 
