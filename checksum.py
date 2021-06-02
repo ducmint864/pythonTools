@@ -15,4 +15,3 @@ if result == sample:
 	print("Match! Your file is safe")
 	exit()
 print("\n>>>Unmatched! Your file is corrupted!")
-
